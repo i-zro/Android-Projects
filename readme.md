@@ -27,8 +27,7 @@ Ctrl + `
 ---
 
 1. 쓰레기 파일을 만들어줌
-   ![garbage](./Users/USER/OneDrive - dongguk.edu/GIT/github/1.jpg)
 1. git add -A 해줌
-1. git log : commit 일련번호가 나옴 --> 앞 여섯자리만 복사 (ex) 26bd274)
-   ![gitlog](./Users/USER/OneDrive - dongguk.edu/GIT/github/2.jpg)
-1.
+1. git log : commit 일련번호가 나옴 --> 앞 여섯자리만 복사 (ex) 26bd27)
+1. git reset 26bd27 --hard : 26bd27 상태로 돌아감,현재 로그 사라짐
+1. git revert 26bd27 : 좀 더 소심하게, 현재 로그 남아있는 상태
