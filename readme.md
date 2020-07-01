@@ -1,3 +1,5 @@
+## https://www.youtube.com/watch?v=FXDjmsiv8fI
+
 # 깃허브
 
 ---
@@ -31,3 +33,12 @@ Ctrl + `
 1. git log : commit 일련번호가 나옴 --> 앞 여섯자리만 복사 (ex) 26bd27)
 1. git reset 26bd27 --hard : 26bd27 상태로 돌아감,현재 로그 사라짐
 1. git revert 26bd27 : 좀 더 소심하게, 현재 로그 남아있는 상태
+
+---
+
+# 평행우주 만들기
+
+---
+
+1. git branch my-idea : my-idea라는 branch 만들어주기
+1. git checkout my-idea : my-idea라는 branch로 옮겨오기
