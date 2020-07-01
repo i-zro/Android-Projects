@@ -29,3 +29,6 @@ Ctrl + `
 1. 쓰레기 파일을 만들어줌
    ![garbage](./Users/USER/OneDrive - dongguk.edu/GIT/github/1.jpg)
 1. git add -A 해줌
+1. git log : commit 일련번호가 나옴 --> 앞 여섯자리만 복사 (ex) 26bd274)
+   ![gitlog](./Users/USER/OneDrive - dongguk.edu/GIT/github/2.jpg)
+1.
