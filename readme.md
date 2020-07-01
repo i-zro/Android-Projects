@@ -16,6 +16,7 @@ Ctrl + `
 1. git config --global user.name "i-zro" : 내이름 등록
 1. git config --global user.email "dek3127@gmail.com" : 내 이메일 등록
 1. git status : 현재 폴더 안의 파일 상태. untracked file이라고 git에서 아직 쳐다보지 않는 파일이 나타남
-1. git add -A : 모든 파일을 타임캡슐에 묻겠다
+1. git add : 파일을 타임캡슐에 묻겠다
+   git add -A :모든 파일을 타임캡슐에 묻겠다
 
 ---
