@@ -18,5 +18,14 @@ Ctrl + `
 1. git status : 현재 폴더 안의 파일 상태. untracked file이라고 git에서 아직 쳐다보지 않는 파일이 나타남
 1. git add : 파일을 타임캡슐에 묻겠다
    git add -A :모든 파일을 타임캡슐에 묻겠다
+1. git commit -m "First Commit" : commit 내용 적기
 
 ---
+
+# 임의로 쓰레기 파일 만든 후, 쓰레기 파일 만든 전으로 돌아가기
+
+---
+
+1. 쓰레기 파일을 만들어줌
+   ![garbage](./Users/USER/OneDrive - dongguk.edu/GIT/github/1.jpg)
+1. git add -A 해줌
