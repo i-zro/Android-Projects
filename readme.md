@@ -1,4 +1,6 @@
-## https://www.youtube.com/watch?v=FXDjmsiv8fI
+## 얄팍한 코딩사전
+
+: https://www.youtube.com/watch?v=FXDjmsiv8fI
 
 # 깃허브
 
@@ -42,3 +44,25 @@ Ctrl + `
 
 1. git branch my-idea : my-idea라는 branch 만들어주기
 1. git checkout my-idea : my-idea라는 branch로 옮겨오기
+1. 쓰레기파일 한개 삭제하고 새로운거 한개 만들어놓기
+1. add, commit 해주기
+1. git checkout master : 감쪽같이 원래대로 돌아옴
+
+---
+
+# my-idea 브랜치를 master와 병합하기
+
+---
+
+git merge my-idea
+
+---
+
+# 브랜치 작업 내용 시각화
+
+---
+
+git log --graph --all --decorate
+git branch -D my-idea : 다쓴 브랜치 삭제
+
+---
